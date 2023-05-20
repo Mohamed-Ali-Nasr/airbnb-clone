@@ -1,0 +1,27 @@
+{
+  "tailwindCSS.emmetCompletions": true,
+  "window.autoDetectColorScheme": false,
+  "tailwindCSS.colorDecorators": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.mouseWheelZoom": true,
+  "files.autoGuessEncoding": false,
+  "editor.renderWhitespace": "all",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "color-highlight.matchRgbWithNoFunction": true,
+  "color-highlight.rgbWithNoFunctionLanguages": ["*"],
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.formatOnSave.enabled": true,
+  "eslint.format.enable": true,
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.experimental.configFile": null,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  }
+}
