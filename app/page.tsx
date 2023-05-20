@@ -9,7 +9,7 @@ interface HomeProps {
   searchParams: IListingsParams;
 }
 
-export const Home = async ({ searchParams }: HomeProps) => {
+const Home = async ({ searchParams }: HomeProps) => {
   const listings = await getListings(searchParams);
   const currentUser = await getCurrentUser();
 
